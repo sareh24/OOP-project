@@ -1,4 +1,4 @@
-Discription of the task
+Discription of the task: 
 Hobby animals need several things to preserve their exhilaration. Cathy has some hobby animals: fishes, birds, and dogs. Every animal has a name 
 and their exhilaration level is between 0 and 100 (0 means that the animals dies). If their keeper is in a good mood, she takes care of everything 
 to cheer up her animals, and their exhilaration level increases: of the fishes by 1, of the birds by 2, and of the dogs by 3. On an ordinary day, 
