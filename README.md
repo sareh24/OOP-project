@@ -31,5 +31,5 @@ This project was developed to demonstrate Object-Oriented Programming concepts i
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sare24/OOP-project.git
+   git clone https://github.com/sareh24/OOP-project.git
 
