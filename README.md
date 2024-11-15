@@ -7,9 +7,6 @@ A C# project designed to apply Object-Oriented Programming (OOP) principles, wit
 - [Features](#features)
 - [Requirements](#requirements)
 - [Setup](#setup)
-- [Usage](#usage)
-- [Testing](#testing)
-- [License](#license)
 
 ## Overview
 
