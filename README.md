@@ -53,7 +53,7 @@ At the end of the simulation, the program determines the name(s) of the animal(s
 ## Features
 
 - Modular, maintainable code using OOP principles.
-- Design patterns such as Singleton, Factory, and Observer (add specific patterns used).
+- Design patterns such as Singleton for Good, Ordinary, Bad classes and visitor pattern between animals and cathy classes.
 - Extensive unit testing to ensure functionality.
 
 ## Requirements
